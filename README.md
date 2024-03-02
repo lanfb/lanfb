@@ -1,4 +1,5 @@
 ### Hi there 👋
+### I'm currently studying graphic design 🌆
 
 <!--
 **lanfb/lanfb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
